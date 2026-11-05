@@ -1,0 +1,13 @@
+{
+  "name": "AuraCheck - Composure & Social Decorum Guardian",
+  "description": "Real-time acoustic and behavioral composure guardian that monitors volume, loud laughter, and sudden agitation to prevent social embarrassment with speech alerts and gentle haptics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "accelerometer",
+    "gyroscope"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
